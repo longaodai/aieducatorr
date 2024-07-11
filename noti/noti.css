@@ -1,0 +1,166 @@
+.sales-social-proof {
+  padding: 0;
+  position: fixed;
+  bottom: 20px;
+  left: 0px;
+  z-index: 9999 !important;
+  display: none;
+  border-width: 2px;
+  border-color: #0dcaf0 ;
+  border-style: solid;
+  border-radius: 10px;
+  background-color: 5a6ab2;
+  box-shadow: 0px 0px 30px 0px rgba(188, 159, 247, 0.2), inset 0px 0px 15px 0px rgba(59, 13, 131, 0.3);
+  background-color: rgb(255, 255, 255);
+  /* border-color: rgb(255, 255, 255); */
+  position: fixed;
+  /* padding: 5px;
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 9999 !important;
+    display: none;
+    border-width: 1px;
+    border-color: rgb(61, 229, 202);
+    border-style: solid;
+    border-radius: 20px;
+    background-color: rgb(251, 11, 2);
+    box-shadow: 0px 0px 30px 0px rgba(188, 159, 247, 0.2), inset 0px 0px 15px 0px rgba(59, 13, 131, 0.3); */
+  /* Uncoment This Line to Hide Initially*/
+}
+
+/* .sales-social-proof .sales-notification {
+  width: 100%;
+  border: 0;
+  text-align: left;
+  z-index: 99999;
+  box-sizing: border-box;
+  font-weight: 400;
+  border-radius: 20px;
+  box-shadow: 2px 2px 10px 2px hsla(0deg, 4%, 4%, 0.2);
+  background-color: #fff;
+  position: relative;
+  cursor: pointer;
+} */
+
+.sales-social-proof .sales-notification .sales-notification-container {
+  display: flex !important;
+  align-items: center;
+  height: auto;
+  padding: 1rem;
+}
+
+.sales-social-proof .sales-notification .sales-notification-container .sales-notification-image-wrapper img {
+  max-height: 100%;
+  width: 100%;
+  overflow: hidden;
+  border-radius: 6px 0 0 6px;
+  object-fit: cover;
+}
+
+.sales-social-proof .sales-notification .sales-notification-container .sales-notification-content-wrapper {
+  margin: 0;
+  height: 100%;
+  color: gray;
+  padding-left: 25px;
+  padding-right: 15px;
+  border-radius: 3px;
+  flex: 1;
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.sales-social-proof .sales-notification .sales-notification-container .sales-notification-content-wrapper .sales-notification-content {
+  font-family: inherit !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  font-size: 12px;
+  /* line-height: 16px; */
+}
+
+.sales-social-proof .sales-notification .sales-notification-container .sales-notification-content-wrapper .sales-notification-content small {
+  margin-top: 5px !important;
+  display: block !important;
+  font-size: 12px !important;
+  opacity: 0.8;
+}
+
+.sales-social-proof .sales-notification .sales-custom-close {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  height: 12px;
+  width: 12px;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+  transform: rotate(45deg);
+  opacity: 1;
+}
+
+.sales-social-proof .sales-notification .sales-custom-close::before {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 2px;
+  background-color: gray;
+  position: absolute;
+  left: 0;
+  top: 5px;
+}
+
+.sales-social-proof .sales-notification .sales-custom-close::after {
+  content: "";
+  display: block;
+  height: 100%;
+  width: 2px;
+  background-color: gray;
+  position: absolute;
+  left: 5px;
+  top: 0;
+}
+
+.sales-social-proof .sales-notification:hover .sales-custom-close {
+  opacity: 1;
+}
+
+.poweredby {
+  font-weight: 400;
+  text-decoration: none;
+  margin-left: 3px;
+  color: #0dcaf0 ;
+}
+
+#js-product-name {
+  color: #0dcaf0 ;
+}
+
+#js-store-branch {
+  font-weight: bold;
+}
+
+.sales-social-proof p {
+  font-size: 12px !important;
+  line-height: 1.5em;
+}
+
+.sales-social-proof ul,
+.sales-social-proof li,
+.sales-social-proof a,
+.sales-social-proof p {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.sales-social-proof p {
+  margin-top: 0;
+  margin-bottom: 0px;
+}
+
+.sales-social-proof .noti-image {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  transform: rotate(360deg);
+  width: 10%;
+}
