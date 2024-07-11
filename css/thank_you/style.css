@@ -1,4 +1,4 @@
-@import url(bootstrap.min.css);
+@import url(../bootstrap.min.css);
 
 body {
 	margin: 0;
@@ -1228,7 +1228,7 @@ a:hover {
 
 .highlight1 {
 	padding: 15px 50px;
-	background: transparent url(../images/hihglight.png) no-repeat center center;
+	background: transparent url(/images/thank_you/hihglight.png) no-repeat center center;
 	background-size: 100% 100%;
 	display: inline-block;
 	margin-top: 20px;
@@ -1247,7 +1247,7 @@ a:hover {
 @media (min-width:768px) {
 	.welcome-section {
 		padding: 60px 0px 102px 0px;
-		background: url(../images/welcome-bg.html) no-repeat center center;
+		background: url(/images/jv/welcome-bg.webp) no-repeat center center;
 		background-size: cover;
 	}
 
@@ -1484,7 +1484,7 @@ a.affliate-link:hover {
 	}
 
 	.cta-bg {
-		background: url(../images/cta-bg.html) no-repeat center center;
+		background: url(/images/thank_you/cta-bg.html) no-repeat center center;
 		background-size: 100% 100%;
 	}
 }
@@ -1497,7 +1497,7 @@ a.affliate-link:hover {
 } */
 .hey-section {
 	padding: 0px 0px;
-	/* background: url(../images/testimonials-section.png) no-repeat center center; */
+	/* background: url(/images/thank_you/testimonials-section.png) no-repeat center center; */
 	background-size: cover;
 }
 
@@ -1576,7 +1576,7 @@ a.affliate-link:hover {
 
 	/* .hey-section {
 		padding:100px 0px;
-		background: url(../images/testimonials-section.png) no-repeat center center;
+		background: url(/images/thank_you/testimonials-section.png) no-repeat center center;
 		background-size: cover;
 	} */
 	.hey-title {
@@ -1609,7 +1609,7 @@ a.affliate-link:hover {
 }
 
 .slots {
-	background: url(../images/slots.html) no-repeat center center;
+	background: url(/images/thank_you/slots.html) no-repeat center center;
 	background-size: 100% 100%;
 	padding: 15px;
 	display: inline-block;
@@ -1623,7 +1623,7 @@ a.affliate-link:hover {
 @media (min-width:768px) {
 	.reseller-section {
 		padding: 100px 0px 120px 0px;
-		background: url(../images/reseller-bg.png) no-repeat center center;
+		background: url(/images/thank_you/reseller-bg.png) no-repeat center center;
 		background-size: cover;
 	}
 
@@ -1682,12 +1682,12 @@ a.affliate-link:hover {
 @media (min-width:768px) {
 	.bonus-section {
 		padding: 100px 0px 200px 0px;
-		background: url(../images/bonus-section.html) no-repeat center bottom;
+		background: url(/images/thank_you/bonus-section.html) no-repeat center bottom;
 		background-size: cover;
 	}
 
 	.bonus-shape {
-		background: url(../images/bonus-shape.html) no-repeat center center;
+		background: url(/images/thank_you/bonus-shape.html) no-repeat center center;
 		background-size: 100% 100%;
 		padding: 40px 150px 60px 150px;
 		box-shadow: none;
@@ -1716,7 +1716,7 @@ ul.point-lists {
 
 ul.point-lists li {
 	list-style: none;
-	background: url(../images/tick.html) no-repeat top left;
+	background: url(/images/thank_you/tick.html) no-repeat top left;
 	padding-left: 40px;
 	margin-bottom: 25px;
 }
@@ -1757,12 +1757,12 @@ ul.point-lists li {
 @media (min-width:768px) {
 	.price-section {
 		padding: 100px 0px 100px 0px;
-		background: url(../images/price-section.png) no-repeat bottom center;
+		background: url(/images/thank_you/price-section.png) no-repeat bottom center;
 		background-size: cover;
 	}
 
 	.title {
-		background: url(../images/title.html) no-repeat center center;
+		background: url(/images/thank_you/title.html) no-repeat center center;
 		background-size: 100% 100%;
 		padding: 40px 100px 60px 100px;
 		position: relative;
@@ -1772,7 +1772,7 @@ ul.point-lists li {
 
 	.text-title1 {
 		padding: 30px 50px;
-		background: url(../images/text-title.html) no-repeat center center;
+		background: url(/images/thank_you/text-title.html) no-repeat center center;
 		background-size: 100% 100%;
 		box-shadow: none;
 	}
@@ -1791,7 +1791,7 @@ ul.point-lists li {
 @media (min-width:768px) {
 	.features-section {
 		padding: 100px 0px;
-		background: url(../images/feature-section.html) no-repeat center center;
+		background: url(/images/thank_you/feature-section.html) no-repeat center center;
 		background-size: cover;
 	}
 }
@@ -1831,7 +1831,7 @@ ul.point-lists li {
 @media (min-width:768px) {
 	.table-section {
 		padding: 100px 0px 50px 0px;
-		background: url(../images/table-section.html) no-repeat top center;
+		background: url(/images/thank_you/table-section.html) no-repeat top center;
 		background-size: cover;
 	}
 }
@@ -1844,7 +1844,7 @@ ul.point-lists li {
 @media (min-width:768px) {
 	.license-section {
 		padding: 200px 0px 100px 0px;
-		background: url(../images/license-bg.png) no-repeat top center;
+		background: url(/images/thank_you/license-bg.png) no-repeat top center;
 		background-size: cover;
 	}
 }
@@ -1868,7 +1868,7 @@ ul.point-lists li {
 @media (min-width:768px) {
 	.cta-section {
 		padding: 100px 0px;
-		background: url(../images/cta-section.html) no-repeat center center;
+		background: url(/images/thank_you/cta-section.html) no-repeat center center;
 		background-size: cover;
 	}
 
@@ -2144,7 +2144,7 @@ a.nothank {
 
 ul.like-lists li {
 	list-style: none;
-	background: url(../images/icon.png) no-repeat top left;
+	background: url(/images/thank_you/icon.png) no-repeat top left;
 	padding-left: 60px;
 	margin-bottom: 10px;
 	min-height: 50px;
@@ -2162,7 +2162,7 @@ ul.like-lists li {
 
 .update {
 	list-style: none;
-	background: url(../images/home2.png) no-repeat top;
+	background: url(/images/thank_you/home2.png) no-repeat top;
 	/* width: 40%;
 	padding-left: 60px; */
 	margin-bottom: 10px;
@@ -2347,7 +2347,7 @@ a.affliate-link3 {
 }
 
 .success {
-	background: url(../images/Grou12.png) no-repeat center center;
+	background: url(/images/thank_you/Grou12.png) no-repeat center center;
 	background-size: auto;
 	background-size: 100% 100%;
 	border-radius: 20px;
@@ -2460,7 +2460,7 @@ a:hover {
 @media (min-width: 768px) {
 	.steps-section {
 		padding: 60px 0px 242px 0px;
-		/* background: url(../images/steps.png) no-repeat center center; */
+		/* background: url(/images/thank_you/steps.png) no-repeat center center; */
 		background-size: auto;
 		background-size: cover;
 		background-color: #EBF0FF;
@@ -2471,7 +2471,7 @@ a:hover {
 .steps-section {
 	padding: 30px 0px 100px;
 	position: relative;
-	background: url(../images/contest-bg1.png) no-repeat center center;
+	background: url(/images/thank_you/contest-bg1.png) no-repeat center center;
 	background-attachment: fixed;
 background-size: cover;
 	/* background-image: -moz-linear-gradient(90deg, rgb(11, 12, 35) 0%, rgb(16, 6, 58) 100%);
