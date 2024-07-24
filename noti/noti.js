@@ -4,8 +4,8 @@ $(function () {
     '<div class="sales-notification">' +
     '<div class="sales-notification-container row ">' +
     '<div class="sales-notification-content-wrapper col-md-12 mt-2">' +
-    '<img id="js-product-image" src="" class="img-fluid d-block mx-auto noti-image">' +
-    '<p class="sales-notification-content">Someone from <span id="js-store-branch"></span></p> <p>recently bought <a id="js-product-name" href=""></a></p>' +
+    '<img id="js-product-image" src="https://aieducatorr.com/special/images/notificatin.png" class="img-fluid d-block mx-auto noti-image">' +
+    '<p class="sales-notification-content">Someone from <span id="js-store-branch"></span></p> <p>recently bought <a id="js-product-name" href="">AI Course Success</a></p>' +
     '<small><span id="time"></span> minutes ago &nbsp;<i class="fa fa-check-circle"></i> Verified by <a class="poweredby" href="https://wisernotify.com" target="_blank">wisernotify</a></small>' +
     "</p>" +
     "</div>" +
@@ -55,7 +55,7 @@ $(function () {
   var trans = {
     transaction: [
       {
-        product: "AI Educator",
+        product: "AI Course Success",
         imglink:
           "https://aieducatorr.com/special/images/notificatin.png",
         productlink:
@@ -97,7 +97,7 @@ $(function () {
 
       if (trans.transaction[counter]) {
         $("#js-product-image").attr("src", trans.transaction[counter].imglink);
-        $("#js-product-name").text(trans.transaction[counter].product);
+        $("#js-product-name").text("AI Course Success");
         $("#js-product-name").attr("href", trans.transaction[counter].productlink);
       }
     });
