@@ -135,7 +135,7 @@
 }
 
 .categories-box {
-    background: url(/images/special/bg-1.png) no-repeat center bottom;
+    background: url(/images/special/bg-1.jpg) no-repeat center bottom;
     background-size: cover;
     overflow: hidden;
     color: #fff;
@@ -202,7 +202,7 @@
 }
 
 .steps-box {
-    background-image: url(/images/special/step-bg.png);
+    background-image: url(/images/special/step-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -490,7 +490,7 @@
     overflow: hidden;
     color: #fff;
     margin: 50px 0;
-    background: url(/images/special/cta-bg.png) no-repeat center center;
+    background: url(/images/special/cta-bg.jpg) no-repeat center center;
     background-size: 100% 100%;
     padding: 50px;
     border-radius: 50px;
@@ -523,7 +523,7 @@
     left: 0;
     width: 100%;
     height: 30%;
-    background-color: #6433ff;
+    background-color: #6733ff;
     z-index: -1;
 }
 
@@ -578,7 +578,7 @@
 }
 
 .introduction {
-    background: url(/images/special/bg-6.png) no-repeat center top;
+    background: url(/images/special/bg-6.jpg) no-repeat center top;
     background-size: cover;
     overflow: hidden;
     color: #fff;
@@ -691,7 +691,7 @@
 }
 
 .block-box .block-box-inner {
-    background: url(/images/special/bg-7.png) no-repeat center bottom;
+    background: url(/images/special/bg-7.jpg) no-repeat center bottom;
     background-size: cover;
     overflow: hidden;
     color: #fff;
@@ -715,7 +715,7 @@
 }
 
 .product-points {
-    background: url(/images/special/bg-8.png) no-repeat center bottom;
+    background: url(/images/special/bg-8.jpg) no-repeat center bottom;
     background-size: cover;
     overflow: hidden;
     background-attachment: fixed;
@@ -744,7 +744,7 @@
 }
 
 .new-life {
-    background: url(/images/special/bg-9.png) no-repeat center bottom;
+    background: url(/images/special/bg-9.jpg) no-repeat center bottom;
     background-size: cover;
     overflow: hidden;
     color: #fff;
@@ -791,13 +791,13 @@
 }
 
 .act-now {
-    background: url(/images/special/bg-4.png) no-repeat center bottom;
+    background: url(/images/special/bg-4.jpg) no-repeat center bottom;
     background-size: cover;
     color: #fff;
 }
 
 .thinking {
-    background: url(/images/special/bg-10.png) no-repeat center bottom;
+    background: url(/images/special/bg-10.jpg) no-repeat center bottom;
     background-size: cover;
 }
 
@@ -839,7 +839,7 @@
 }
 
 .introduce {
-    background: url(/images/special/bg-12.png) no-repeat center bottom;
+    background: url(/images/special/bg-12.jpg) no-repeat center bottom;
     background-size: cover;
     color: #fff;
 }
@@ -972,7 +972,7 @@
 
 }
 .courses {
-    background: url(/images/special/bg-15.png) no-repeat center center;
+    background: url(/images/special/bg-15.jpg) no-repeat center center;
     background-attachment: fixed;
     background-size: 100% 100%;
     color: #fff;
